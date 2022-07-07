@@ -1,3 +1,4 @@
+![coffee](https://user-images.githubusercontent.com/95612215/177772311-99bae882-3dd3-413c-a708-f7ecf8341779.gif)
 # coffee_shop
 
 A new Flutter project.
